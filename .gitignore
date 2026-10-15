@@ -1,0 +1,5 @@
+config/config.php
+public/uploads/fondos/*
+!public/uploads/fondos/.gitkeep
+storage/sesiones/*
+!storage/sesiones/.gitkeep
