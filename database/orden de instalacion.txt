@@ -1,0 +1,5 @@
+Quedan
+
+schema.sql: la estructura completa, solo tablas vacías. Ya trae las descripciones de 500 letras y el padrón RUC.
+datos_iniciales.sql (nuevo): crea las dos empresas (Copias y Agente, con tus datos reales), la categoría General y el usuario omar / 14512.
+usuario_omar.sql: no hace falta para instalar. Guardalo por si algún día te quedás sin acceso, porque vuelve a poner la contraseña de omar. ---para esta parte datos inicales no tengo en la parte que te adjunte
